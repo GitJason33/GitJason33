@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitJason33
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on good ideas and projects
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me is a secret 😎
 
 <!---
